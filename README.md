@@ -2,11 +2,11 @@
 
 ![Con logo](https://img.shields.io/badge/Git-2.55-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![Workflow](https://img.shields.io/github/actions/workflow/status/juanjovex-dev85/legion-del-mal/ci.yml)
-![Release](https://img.shields.io/github/v/release/juanjovex-dev85/legion-del-mal)
-![Issues](https://img.shields.io/github/issues/juanjovex-dev85/legion-del-mal)
-![Último commit](https://img.shields.io/github/last-commit/juanjovex-dev85/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/juanjovex-dev85/legion-del-mal)
+![Workflow](https://img.shields.io/github/actions/workflow/status/juanjovex/legion-del-mal/ci.yml)
+![Release](https://img.shields.io/github/v/release/juanjovex/legion-del-mal)
+![Issues](https://img.shields.io/github/issues/juanjovex/legion-del-mal)
+![Último commit](https://img.shields.io/github/last-commit/juanjovex/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/juanjovex/legion-del-mal)
 
 # 🦹‍♂️ La Legión del Mal
 
