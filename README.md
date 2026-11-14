@@ -9,7 +9,7 @@
 ![Licencia](https://img.shields.io/github/license/juanjovex/legion-del-mal)
 
  
-# 🦹‍♂️ La Legión del Mal - Desde Remoto - Desde Remoto y Local
+# 🦹‍♂️ La Legión del Mal - Desde Remoto y Local
 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
