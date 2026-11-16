@@ -9,7 +9,9 @@
 ![Licencia](https://img.shields.io/github/license/juanjovex/legion-del-mal)
 
  
-# 🦹‍♂️ La Legión del Mal 
+# 🦹‍♂️ La Legión del Mal - Desde Local
+
+## es una ficha de ADSO aprendiendo git y github
 
 
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
